@@ -8,3 +8,13 @@ C:\Users\z3roc\source\repos\CaesarCiper\CaesarCiper\obj\Debug\CaesarCipher.pdb
 C:\Users\z3roc\source\repos\CaesarCiper\CaesarCiper\bin\Debug\CaesarCipher.exe.config
 C:\Users\z3roc\source\repos\CaesarCiper\CaesarCiper\bin\Debug\CaesarCipher.exe
 C:\Users\z3roc\source\repos\CaesarCiper\CaesarCiper\bin\Debug\CaesarCipher.pdb
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\bin\Debug\CaesarCipher.exe.config
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\bin\Debug\CaesarCipher.exe
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\bin\Debug\CaesarCipher.pdb
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\obj\Debug\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\obj\Debug\CaesarCipher.Form1.resources
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\obj\Debug\CaesarCipher.Properties.Resources.resources
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\obj\Debug\CaesarCipher.csproj.GenerateResource.cache
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\obj\Debug\CaesarCipher.exe
+C:\Users\z3roc\Documents\GitHub\caesarcipher\CaesarCiper\obj\Debug\CaesarCipher.pdb

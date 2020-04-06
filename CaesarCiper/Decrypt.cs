@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CaesarCipher
 {
-   class Decrypt
+    class Decrypt
     {
         public static string Decryption(string crypto, int key)
         {
@@ -18,11 +18,11 @@ namespace CaesarCipher
             {
                 if (Char.IsUpper(value[i]))
                 {
-                    value[i] = (char)((value[i] - 'A' + key) % 26 + 'A');
+                    value[i] = (char)((value[i] - 'Z' - key) % 26 + 'Z');
                 }
                 else if (Char.IsLower(value[i]))
                 {
-                    value[i] = (char)((value[i] - 'a' + key) % 26 + 'a');
+                    value[i] = (char)((value[i] - 'z' - key) % 26 + 'z');
                 }
                 else if (value[i] == ' ')
                 {

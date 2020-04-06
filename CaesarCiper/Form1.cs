@@ -38,7 +38,7 @@ namespace CaesarCipher
             cryto = textBox6.Text;
             key = textBox5.Text;
 
-            string plaintext = Decrypt.Decryption(cryto, int.Parse(key) * -1);
+            string plaintext = Decrypt.Decryption(cryto, int.Parse(key));
 
             textBox4.Text = plaintext;
         }
